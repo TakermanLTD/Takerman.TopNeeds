@@ -22,7 +22,7 @@ define('LOGGED_IN_SALT',   'wd#i$+ZX=iCM1J^>u_g;mmR@_E{N!SJ=<vw&L2=4]2CxP{?.Tc7c
 define('NONCE_SALT',       '(uL3_)kBV!x7.h&L7E^Q-L,PBPuZ8cBaa0h#AC<-KP<5ojG^CXlJrOasY8kVyC|k');
 define('WP_CACHE_KEY_SALT', 'Ge4~%O1,L1y6liy[/J*5PfB)b4wY{5.nw]qOvqc~C}k!L6/TG}eUJ@EqgFCP{0+?');
 
-$table_prefix = 'gnb_';
+$table_prefix = 'wp_';
 
 // debug
 define('WP_DEBUG', 'true');
