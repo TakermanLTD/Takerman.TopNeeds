@@ -1,0 +1,10 @@
+
+Time: 2022/09/28 17:24:31
+Error Number: 2
+Error Type: Run-time warnings (non-fatal errors). Execution of the script is not halted. 
+Error Msg: in_array() expects parameter 2 to be array, null given
+IP Address: ::1
+File Name: C:\wamp64\www\Takerman.TopNeeds\wp-content\plugins\stop-spammer-registrations-plugin\classes\ss_addtoblocklist.php
+Line Number: 14
+Memory Used: 4194304 Peak: 4194304
+---------------------
